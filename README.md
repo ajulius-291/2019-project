@@ -1,0 +1,2 @@
+This project is just a computer simulation of Rock, Paper, Scissors; as well as being the intellectual property of Luis Munguia, Julia Soto, and Aaliyah Julius.
+We hope you enjoy the project, and if you are going to use it, please give proper credit to us.
